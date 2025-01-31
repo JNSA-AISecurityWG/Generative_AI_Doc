@@ -9,5 +9,8 @@
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg
 
+## 脅威とアクション・対策の概要図
+![](pptx/LLM_SEC.png)
+
 ## ライセンス
 本ドキュメントは **[Creative Commons Attribution-Share Alike v4.0](https://creativecommons.org/licenses/by-sa/4.0/)** ライセンスのもとに公開しています。
