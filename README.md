@@ -9,12 +9,14 @@
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg
 
+## 脅威とアクション・対策の概要図
+![](pptx/LLM_SEC.png)
+
 ## プロジェクトメンバー
 本ドキュメントは、NPO日本ネットワークセキュリティ協会 調査研究部会 AIセキュリティWGのメンバーによって作成されています。プロジェクトメンバーは以下の通りです。
 
 ### プロジェクトメンバー一覧(順不同)
 * 服部 祐一(株式会社セキュアサイクル, JNSA調査研究部会AIセキュリティWGリーダー)
-
 
 ## 関連組織について
 
