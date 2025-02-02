@@ -1,4 +1,4 @@
-# LLMを使う上でのセキュリティ成熟度モデル（仮
+# 生成AIを使う上でのセキュリティ成熟度モデル
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 本ドキュメントは、[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa] ライセンスのもとに公開しています。
