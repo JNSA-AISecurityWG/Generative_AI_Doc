@@ -9,5 +9,19 @@
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg
 
+## プロジェクトメンバー
+本ドキュメントは、NPO日本ネットワークセキュリティ協会 調査研究部会 AIセキュリティWGのメンバーによって作成されています。プロジェクトメンバーは以下の通りです。
+
+### プロジェクトメンバー一覧(順不同)
+* 服部 祐一(株式会社セキュアサイクル, JNSA調査研究部会AIセキュリティWGリーダー)
+
+
+## 関連組織について
+
+### NPO日本ネットワークセキュリティ協会（JNSA）
+NPO日本ネットワークセキュリティ協会は、ネットワーク社会の情報セキュリティレベルの維持・向上及び日本における情報セキュリティ意識の啓発に努めるとともに、最新の情報セキュリティ技術および情報セキュリティへの脅威に関する情報提供などを行うことで、情報化社会へ貢献することを目的とした組織です。
+
+[NPO日本ネットワークセキュリティ協会 公式サイト](https://www.jnsa.org/) 
+
 ## ライセンス
 本ドキュメントは **[Creative Commons Attribution-Share Alike v4.0](https://creativecommons.org/licenses/by-sa/4.0/)** ライセンスのもとに公開しています。
