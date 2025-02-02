@@ -27,3 +27,6 @@ NPO日本ネットワークセキュリティ協会は、ネットワーク社�
 
 ## ライセンス
 本ドキュメントは **[Creative Commons Attribution-Share Alike v4.0](https://creativecommons.org/licenses/by-sa/4.0/)** ライセンスのもとに公開しています。
+
+## お問い合わせ先
+本ドキュメントに関する質問、改善や要望等は、本GitHubリポジトリのIssueにてご連絡ください。
