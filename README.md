@@ -9,6 +9,9 @@
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg
 
+## 概要
+現在、様々な分野でAIを利用したテキスト、画像、動画等を自動的に生成する生成AIが利用が進んでおり、今後さらに利用が進むと予想されます。本ドキュメントは生成AIをセキュアに利用していくうえで必要な項目を生成AIの利用ケースごとにマッピングを行い、生成AIを利用していく組織の一助になることを目的としています。
+
 ## 脅威とアクション・対策の概要図
 ![](pptx/LLM_SEC.png)
 
